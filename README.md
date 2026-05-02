@@ -14,14 +14,12 @@
 <br />
 
 <p>
-  <a href="https://github.com/vkohli123/jax-rag-bench/actions"><img src="https://img.shields.io/github/actions/workflow/status/vkohli123/jax-rag-bench/ci.yml?branch=main&style=flat-square&label=ci&logo=github" alt="CI" /></a>
-  <a href="https://pypi.org/project/jax-rag-bench/"><img src="https://img.shields.io/pypi/v/jax-rag-bench?style=flat-square&color=blue&logo=pypi&logoColor=white" alt="PyPI" /></a>
-  <a href="https://pypi.org/project/jax-rag-bench/"><img src="https://img.shields.io/pypi/pyversions/jax-rag-bench?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/vkohli123/jax-rag-bench/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vkohli123/jax-rag-bench?style=flat-square&color=green" alt="License" /></a>
-  <a href="https://github.com/vkohli123/jax-rag-bench/stargazers"><img src="https://img.shields.io/github/stars/vkohli123/jax-rag-bench?style=flat-square&color=yellow&logo=github" alt="Stars" /></a>
-  <a href="https://github.com/vkohli123/jax-rag-bench/discussions"><img src="https://img.shields.io/github/discussions/vkohli123/jax-rag-bench?style=flat-square&color=orange&logo=github" alt="Discussions" /></a>
-</p>
-
+<a href="https://github.com/vkohli123/jax-rag-bench/actions"><img src="https://img.shields.io/github/actions/workflow/status/vkohli123/jax-rag-bench/ci.yml?branch=main&style=flat-square&label=ci&logo=github" alt="CI" /></a>
+<a href="https://pypi.org/project/jax-rag-bench/"><img src="https://img.shields.io/pypi/v/jax-rag-bench?style=flat-square&color=blue&logo=pypi&logoColor=white" alt="PyPI" /></a>
+<a href="https://pypi.org/project/jax-rag-bench/"><img src="https://img.shields.io/pypi/pyversions/jax-rag-bench?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://github.com/vkohli123/jax-rag-bench/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vkohli123/jax-rag-bench?style=flat-square&color=green" alt="License" /></a>
+<a href="https://github.com/vkohli123/jax-rag-bench/stargazers"><img src="https://img.shields.io/github/stars/vkohli123/jax-rag-bench?style=flat-square&color=yellow&logo=github" alt="Stars" /></a>
+<a href="https://github.com/vkohli123/jax-rag-bench/discussions"><img src="https://img.shields.io/github/discussions/vkohli123/jax-rag-bench?style=flat-square&color=orange&logo=github" alt="Discussions" /></a>
 <p>
   <a href="#-quickstart">Quickstart</a> •
   <a href="#-features">Features</a> •
