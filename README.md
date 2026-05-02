@@ -13,19 +13,12 @@
 
 <br />
 
-<p>
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
-![RAG](https://img.shields.io/badge/RAG-Benchmarking-purple?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-ScaNN-orange?style=flat-square)
-![Metrics](https://img.shields.io/badge/Metrics-nDCG%40k-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square)<p>
-  <a href="#-quickstart">Quickstart</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-benchmarks">Benchmarks</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-contributing">Contributing</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RAG-Benchmarking-purple?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20Search-ScaNN-orange?style=flat-square" alt="ScaNN" />
+  <img src="https://img.shields.io/badge/Metrics-nDCG%40k-green?style=flat-square" alt="Metrics" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 <br />
